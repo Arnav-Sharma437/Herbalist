@@ -398,7 +398,7 @@ button:hover {
 
 
 .section-4 {
-    background-image: url(../images/bg2.jpg);
+    background-image: url(bg2.jpg);
     padding: 140px 0;
     background-position: left;
     background-size: cover;
@@ -1185,7 +1185,7 @@ button.btn.btn-outline-success1 {
 
 
 .section-11 {
-    background-image: url(../images/bg3.jpg);
+    background-image: url(bg3.jpg);
     padding: 90px 0;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1789,3 +1789,4 @@ body .navbar-toggler {
     transition: box-shadow .15s ease-in-out;
 
 }
+
