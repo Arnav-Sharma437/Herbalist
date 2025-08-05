@@ -122,7 +122,7 @@ div#navbarSupportedContent ul li a:hover {
 }
 .section-1 {
     padding: 290px 0 190px 0;
-    background-image: url(../images/bg1.png);
+    background-image: url(bg1.png);
     background-attachment: fixed;
     background-position: bottom right;
     background-repeat: no-repeat;
@@ -1787,4 +1787,5 @@ body .navbar-toggler {
     border: 1px solid transparent;
     border-radius: .25rem;
     transition: box-shadow .15s ease-in-out;
+
 }
