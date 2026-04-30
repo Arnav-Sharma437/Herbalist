@@ -1,0 +1,266 @@
+@media only screen and (max-width: 767px) {
+
+
+
+
+.search-bar {
+    display: none;
+}
+.icons {
+    display: none;
+}
+.oils {
+    width: 100%;
+    text-align: center;
+}
+.oils h2 {
+    font-size: 33px;
+}
+.oils p {
+    line-height: 30px;
+    font-size: 16px;
+}
+.section-1 {
+    padding: 40px 0 140px 0;
+    background-attachment: scroll;
+}
+.free {
+    display: block;
+    margin-left: 50px;
+}
+.main-category {
+    display: block;
+    padding: 40px 0;
+}
+.main.products {
+    padding: 40px 0;
+}
+.products p {
+    font-size: 14px;
+    width: 75%;
+    left: 12%;
+}
+.main-diablo {
+    display: block;
+}
+.diablo-button {
+    margin-bottom: 40px;
+}
+.section-4 {
+    padding: 0 0 40px 0;
+}
+.section-4 {
+    padding: 0 0 40px 0;
+}
+.main-news {
+    padding: 40px 0 30px 0;
+}
+.main-facial {
+    width: 100%;
+}
+.facial {
+    width: 100%;
+}
+.main-body {
+    display: block;
+    padding: 40px 0;
+}.main-question {
+    padding: 40px 0;
+}
+.body-img {
+    width: 100%;
+}
+.body-img img {
+    width: 100%;
+}
+.body-content {
+    width: 100%;
+}
+.content-head  h2 {
+    margin: 25px 0 25px 0;
+	Font-size: 24px;
+}
+.main-office {
+    display: block;
+}
+.office {
+    width: 100%;
+}
+.office1 {
+    width: 100%;
+    margin: 20px 0;
+}
+.question-head h2 {
+    font-size: 35px;
+    font-weight: 700;
+}
+.footer {
+    padding: 40px 0px 40px 0px;
+}
+.main-foot {
+    display: block;
+}
+.mein-about {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.mein-feed {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.mein-tags {
+    width: 100%;
+    margin-bottom: 50px;
+}
+.mein-photo-gallery {
+    width: 100%;
+}
+
+.news-img img {
+    height: 180px;
+}
+.news-content {
+    bottom: 158px;
+    width: 100%;
+    left: 0;
+}
+.news-content h2 {
+    margin: 20px 0;
+    font-size: 24px;
+}
+.news-content p {
+    line-height: 23px;
+    letter-spacing: 0;
+    font-size: 14px;
+    margin: 0;
+}
+body .slick-initialized .slick-slide {
+    display: block;
+}
+.hero .hero-body .counter .counter-boxes .count-box h1 {
+    font-size: 25px;
+}
+.hero .hero-body .counter .counter-boxes .count-box span {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.slider-img {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+   /* FAQ-CSS */
+
+
+.main-return {
+    display: block;
+}
+.box {
+    width: 0px;
+    top: 10%;
+    left: 190px;
+}
+
+.box2 {
+    width: 0px;
+    left: 191px;
+    top: 28%;
+}
+
+.box3 {
+    width: 0;
+    height: 0px;
+    left: 190px;
+    top: 48%;
+}
+
+
+.box4 {
+    left: 190px;
+    top: 68%;
+}
+.box5 {
+    left: 190px;
+    top: 88%;
+}
+.popup {
+    width: 70%;
+}
+.accordion-container1 {
+    padding-top: 40px;
+}
+.vedios {
+    display: block;
+    padding: 10px;
+}
+.vedios img {
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+
+
+
+/* Blog-CSS */
+
+
+.MAIN-cannbies {
+    display: block;
+}
+.cannbies-content ul {
+    display: block;
+}
+.cannbies-content h2 {
+    font-size: 28px;
+}
+
+
+
+
+/* Team-CSS */
+.main-team {
+    display: block;
+}
+
+
+
+
+
+.main-counter {
+    display: block;
+}
+.main-design {
+    display: block;
+}
+
+.design-img {
+    width: 100%;
+}
+.design-content {
+    width: 100%;
+}
+.design-content h2 {
+    font-size: 35px;
+}
+.design-content p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+/* contact-CSS */
+
+
+.main-wel {
+    display: grid;
+    gap: 30px;
+}
+
+}
